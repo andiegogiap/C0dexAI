@@ -1,5 +1,5 @@
 {
-  "name": "Copy of C0dexAI Gemini Interpreter",
+  "name": "CAGI- C0dexAI Gemini Interpreter",
   "description": "An AI-powered code interpreter in a simulated GitHub-like environment. Users can interact with a file system, view files, and use an AI assistant to run code, analyze data, and generate new files.",
   "requestFramePermissions": [],
   "prompt": ""
